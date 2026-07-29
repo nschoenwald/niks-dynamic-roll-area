@@ -27,7 +27,6 @@ This module is **system-agnostic** — it works with any game system.
 * **[Nik's Turn Time Tracker](https://github.com/nschoenwald/niks-turn-time-tracker)** – Whispers combat turn and round duration summaries to the GM.
 
 ### 🎲 Visuals & Display
-* **[Nik's Dynamic Roll Area](https://github.com/nschoenwald/niks-dynamic-roll-area)** – Dynamically restricts Dice So Nice 3D dice rolling area to exclude the sidebar / chat log across all screen resolutions and window sizes.
 * **[Nik's Effects Panel](https://github.com/nschoenwald/niks-effects-panel)** – Modern ApplicationV2 floating active effect tracker with rich tooltips and role permissions.
 
 ### ⚙️ Utilities & System Management
