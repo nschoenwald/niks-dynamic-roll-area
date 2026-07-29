@@ -13,6 +13,14 @@ A lightweight Foundry VTT module that ensures 3D dice rolled with **Dice So Nice
 This module is **system-agnostic** — it works with any game system.
 
 **Required Dependency:** [Dice So Nice](https://github.com/Simone-Renzo/foundryvtt-dice-so-nice)
+---
+
+## Features
+
+- **Dynamic Exclusion**: Guarantees that 3D dice physics barriers exclude the right-hand sidebar and chat log.
+- **Resolution & Resize Aware**: Responds dynamically to window resizing, display scale changes, and sidebar collapse/expand transitions.
+- **Foundry V13 & V14 Compatible**: Built for modern Foundry VTT DOM structures and Application architectures.
+- **Client Setting**: Per-client setting in Module Settings to enable or disable dynamic sidebar exclusion.
 
 ---
 
@@ -38,37 +46,3 @@ This module is **system-agnostic** — it works with any game system.
 * **[Nik's KTX2 Converter](https://github.com/nschoenwald/niks-ktx2-converter)** – Batch convert scene tiles and textures to GPU-optimized KTX2/Basis format.
 * **[Nik's Copy Environment](https://github.com/nschoenwald/niks-copy-environment)** – Copy-paste environment light and sound setups between scenes.
 * **[Nik's Wild Magic](https://github.com/nschoenwald/niks-wild-magic)** – Automated wild magic surge checks and surge table rolls for DnD5e Sorcerers.
-
----
-
-## Features
-
-- **Dynamic Exclusion**: Guarantees that 3D dice physics barriers exclude the right-hand sidebar and chat log.
-- **Resolution & Resize Aware**: Responds dynamically to window resizing, display scale changes, and sidebar collapse/expand transitions.
-- **Foundry V13 & V14 Compatible**: Built for modern Foundry VTT DOM structures and Application architectures.
-- **Client Setting**: Per-client setting in Module Settings to enable or disable dynamic sidebar exclusion.
-
----
-
-## Installation
-
-### Via Manifest URL
-
-1. In Foundry VTT, go to **Settings → Manage Modules → Install Module**
-2. Paste the following manifest URL:
-   ```
-   https://github.com/nschoenwald/niks-dynamic-roll-area/releases/latest/download/module.json
-   ```
-3. Click **Install**
-
-### Manual
-
-1. Download the latest release from the [Releases](https://github.com/nschoenwald/niks-dynamic-roll-area/releases) page
-2. Extract into your Foundry VTT `Data/modules/niks-dynamic-roll-area` directory
-3. Enable the module in **Settings → Manage Modules**
-
----
-
-## License
-
-This module is licensed under the [MIT License](LICENSE).
