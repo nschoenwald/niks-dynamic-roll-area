@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [14.1.0] - 2026-10-25
+
+### Improved
+- **Performance Optimization**: Eliminated redundant boundary recalculations and background physics updates on sidebar tab navigation.
+- **Reliable Boundary Updates**: Ensured 3D dice physics barriers reliably and dynamically exclude the chat log and sidebar across all window resolutions, display scales, and sidebar states.
+
 ## [14.0.0] - 2026-07-29
 
 ### Added

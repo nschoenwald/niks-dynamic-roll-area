@@ -109,5 +109,4 @@ Hooks.on("collapseSidebar", () => {
 });
 
 Hooks.on("renderSidebar", triggerUpdate);
-Hooks.on("changeSidebarTab", triggerUpdate);
 window.addEventListener("resize", triggerUpdate);

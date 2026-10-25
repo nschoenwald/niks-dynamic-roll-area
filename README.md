@@ -17,7 +17,8 @@ This module is **system-agnostic** — it works with any game system.
 
 ## Features
 
-- **Dynamic Exclusion**: Guarantees that 3D dice physics barriers exclude the right-hand sidebar and chat log.
+- **Dynamic Exclusion**: Guarantees that 3D dice physics barriers dynamically exclude the right-hand sidebar and chat log across all states.
+- **Optimized Performance**: Eliminates redundant boundary recalculations and background worker updates during sidebar tab navigation.
 - **Resolution & Resize Aware**: Responds dynamically to window resizing, display scale changes, and sidebar collapse/expand transitions.
 - **Foundry V13 & V14 Compatible**: Built for modern Foundry VTT DOM structures and Application architectures.
 - **Client Setting**: Per-client setting in Module Settings to enable or disable dynamic sidebar exclusion.
