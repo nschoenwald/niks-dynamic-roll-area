@@ -1,0 +1,6 @@
+{
+  "NIKS_DYNAMIC_ROLL_AREA": {
+    "SettingsEnabledName": "Seitenleiste dynamisch ausnehmen",
+    "SettingsEnabledHint": "Sorgt automatisch dafür, dass der 3D-Würfelbereich von Dice So Nice Chatverlauf und Seitenleiste ausspart, und passt ihn bei jeder Bildschirmauflösung und Fenstergröße dynamisch an."
+  }
+}

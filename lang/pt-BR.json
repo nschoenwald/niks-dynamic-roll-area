@@ -1,0 +1,6 @@
+{
+  "NIKS_DYNAMIC_ROLL_AREA": {
+    "SettingsEnabledName": "Excluir a barra lateral dinamicamente",
+    "SettingsEnabledHint": "Garante automaticamente que a área de rolagem 3D do Dice So Nice exclua o registro do chat e a barra lateral, atualizando-se dinamicamente em qualquer resolução de tela e tamanho de janela."
+  }
+}

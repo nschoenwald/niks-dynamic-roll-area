@@ -1,0 +1,6 @@
+{
+  "NIKS_DYNAMIC_ROLL_AREA": {
+    "SettingsEnabledName": "Excluir dinámicamente la barra lateral",
+    "SettingsEnabledHint": "Garantiza automáticamente que el área de tirada 3D de Dice So Nice excluya el registro del chat y la barra lateral, actualizándose dinámicamente con cualquier resolución de pantalla y tamaño de ventana."
+  }
+}
