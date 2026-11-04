@@ -1,6 +1,0 @@
-{
-  "NIKS_DYNAMIC_ROLL_AREA": {
-    "SettingsEnabledName": "サイドバーを動的に除外",
-    "SettingsEnabledHint": "Dice So Niceの3Dダイス領域からチャットログとサイドバーを自動的に除外し、あらゆる画面解像度やウィンドウサイズに合わせて動的に更新します。"
-  }
-}

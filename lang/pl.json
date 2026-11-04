@@ -1,6 +1,0 @@
-{
-  "NIKS_DYNAMIC_ROLL_AREA": {
-    "SettingsEnabledName": "Dynamicznie wykluczaj pasek boczny",
-    "SettingsEnabledHint": "Automatycznie dba o to, by obszar rzutów 3D Dice So Nice pomijał dziennik czatu i pasek boczny, aktualizując się dynamicznie przy każdej rozdzielczości ekranu i rozmiarze okna."
-  }
-}

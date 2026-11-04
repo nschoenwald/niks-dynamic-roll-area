@@ -1,6 +1,0 @@
-{
-  "NIKS_DYNAMIC_ROLL_AREA": {
-    "SettingsEnabledName": "Exclure dynamiquement la barre latérale",
-    "SettingsEnabledHint": "Veille automatiquement à ce que la zone de lancer 3D de Dice So Nice exclue le journal de discussion et la barre latérale, avec une mise à jour dynamique pour toutes les résolutions d'écran et tailles de fenêtre."
-  }
-}

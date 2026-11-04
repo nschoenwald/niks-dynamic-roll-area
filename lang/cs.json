@@ -1,6 +1,0 @@
-{
-  "NIKS_DYNAMIC_ROLL_AREA": {
-    "SettingsEnabledName": "Dynamicky vynechat postranní panel",
-    "SettingsEnabledHint": "Automaticky zajistí, aby oblast 3D hodu Dice So Nice vynechávala záznam chatu a postranní panel, a dynamicky ji aktualizuje při jakémkoli rozlišení obrazovky a velikosti okna."
-  }
-}
