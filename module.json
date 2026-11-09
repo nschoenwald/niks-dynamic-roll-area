@@ -2,7 +2,7 @@
   "id": "niks-dynamic-roll-area",
   "title": "Nik's Dynamic Roll Area",
   "description": "Ensures the Dice So Nice 3D rollable area dynamically excludes the chat log / sidebar across all resolutions and window sizes.",
-  "version": "14.2.1",
+  "version": "14.3.0",
   "compatibility": {
     "minimum": "13",
     "verified": "14",
@@ -26,6 +26,11 @@
       "lang": "de",
       "name": "Deutsch",
       "path": "lang/de.json"
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
     }
   ],
   "relationships": {
